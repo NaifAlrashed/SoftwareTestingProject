@@ -1,0 +1,4 @@
+event title: Reads in the available tickets file and begins accepting transactions
+Username: accepted username
+
+

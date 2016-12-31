@@ -1,0 +1,3 @@
+event title: Privileged transaction
+
+User Type : Admin

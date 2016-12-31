@@ -1,0 +1,3 @@
+event title: transactions before login
+type of transaction: sell ticket
+

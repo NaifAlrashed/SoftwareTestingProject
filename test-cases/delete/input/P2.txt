@@ -1,0 +1,4 @@
+event title: Privileged transaction
+
+User Type : non Admin
+

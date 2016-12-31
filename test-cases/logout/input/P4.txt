@@ -1,0 +1,4 @@
+event title: Transaction after logout
+
+type of transaction: buy ticket
+

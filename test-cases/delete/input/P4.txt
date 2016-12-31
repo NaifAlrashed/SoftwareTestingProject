@@ -1,0 +1,4 @@
+event title: type of user
+
+Username: not existing user
+ 

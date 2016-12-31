@@ -1,0 +1,3 @@
+event title: all transactions are accepted
+type of user logging in: non-admin
+

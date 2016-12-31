@@ -1,0 +1,3 @@
+SellerUsername: aaaaaaaaaaaaaaaa
+BuyerUsername: b
+AmountOfCredit: 1
