@@ -1,1 +1,2 @@
-event
+enter username
+invalid user name

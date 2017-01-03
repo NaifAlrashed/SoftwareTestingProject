@@ -1,1 +1,2 @@
-SellerUsername:
+enter username
+invalid user name

@@ -1,1 +1,2 @@
-username:
+enter username
+invalid user name

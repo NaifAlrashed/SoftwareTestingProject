@@ -1,1 +1,2 @@
-Amount:
+enter username
+invalid user name
